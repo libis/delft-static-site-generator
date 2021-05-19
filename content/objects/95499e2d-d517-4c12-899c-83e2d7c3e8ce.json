@@ -58,7 +58,6 @@
         }
     ],
     "@id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/95499e2d-d517-4c12-899c-83e2d7c3e8ce.json",
-    "label": "Leren aktetas van college van curatoren. TEST",
     "sequences": [{
         "viewingDirection": "left-to-right",
         "viewingHint": "paged",
