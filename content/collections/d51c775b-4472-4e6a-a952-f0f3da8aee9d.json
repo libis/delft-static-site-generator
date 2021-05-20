@@ -1,6 +1,6 @@
 {
     "summary": {"nl": [
-        "Een zwaartepunt binnen de Museumcollectie is de deelcollectie Geodesie. Deze bevat een uitgebreide verzameling van allerhande meetinstrumenten die te maken hebben met landmeten, kaartering, waterpassen, navigatie en gravimetrie.",
+        "Een zwaartepunt binnen de Museumcollectie is de deelcollectie Geodesie. Deze bevat een uitgebreide verzameling van allerhande meetinstrumenten die te maken hebben met landmeten, kaartering, waterpassen, navigatie en gravimetrie..",
         "Het gros van de objecten is gebruikt door de studenten van zowel de Koninklijke Academie (1842 tot 1864) als de Polytechnische School (1864 tot 1905). Bij deze voorlopers van de TU Delft was goede scholing in het landmeten een belangrijk onderdeel van de opleiding. \nIn de Geodesie Collectie bevinden zich daarnaast ook een aantal instrumenten van de Rijkscommissie voor Graadmeting en Waterpassing. De Rijkscommissie is van 1879, maar kreeg ook vroegere instrumenten in beheer die gebruikt waren bij de eerste en tweede triangulatie van Nederland. De zeer nauwkeurige instrumenten door de vermaarde producent Julius Wanschaff, die door de Rijkscommissie gebruikt bij de derde triangulatie, zijn ook onderdeel van deze collectie.\nDe verzameling van ca. 590 stuks werd tot 2003 beheerd bij de faculteit Geodesie. Na de opheffing van deze faculteit is de collectie toegevoegd aan de Museumcollectie. "
     ]},
     "metadata": [
@@ -16381,47 +16381,6 @@
             }],
             "id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/03268153-c9a0-4e81-9771-0566cfa4f3d1.json",
             "label": {"nl": ["Gravimeter door Van Rest"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
-                            "width": 1024,
-                            "height": 683
-                        },
-                        {
-                            "width": 400,
-                            "height": 267
-                        },
-                        {
-                            "width": 200,
-                            "height": 133
-                        },
-                        {
-                            "width": 100,
-                            "height": 67
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 1024,
-                    "id": "https://dlc.services/thumbs/7/18/2b639ae3-b6e6-4a6a-918d-6266795b17f9",
-                    "type": "ImageService2",
-                    "height": 683
-                },
-                "id": "https://dlc.services/thumbs/7/18/2b639ae3-b6e6-4a6a-918d-6266795b17f9/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/36d88842-d4f8-4506-9fa0-b01bb1ef9b0d.json",
-            "label": {"nl": ["Gravimeter door Defforges met bijbehorende slinger door Bianchi"]},
             "type": "Manifest"
         },
         {
