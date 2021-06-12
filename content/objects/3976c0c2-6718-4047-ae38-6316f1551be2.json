@@ -1,0 +1,95 @@
+{
+    "metadata": [
+        {
+            "label": "Titel",
+            "value": "Olympus monocular microscope lit by electricity for teaching"
+        },
+        {
+            "label": "Objectnaam",
+            "value": "Olympus monocular microscope for teaching"
+        },
+        {
+            "label": "Inventarisnummer",
+            "value": "BIO.2005.1079"
+        }
+    ],
+    "@type": "sc:Manifest",
+    "structures": [{
+        "canvases": ["https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/canvas/c0"],
+        "within": "https://dlc.services/iiif-manifest/7/18/3976c0c2-6718-4047-ae38-6316f1551be2/range/range-0.json",
+        "@type": "sc:Range",
+        "@id": "https://dlc.services/iiif-manifest/7/18/3976c0c2-6718-4047-ae38-6316f1551be2/range/range-0-0.json",
+        "label": "0"
+    }],
+    "@id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/3976c0c2-6718-4047-ae38-6316f1551be2.json",
+    "sequences": [{
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "canvases": [{
+            "images": [{
+                "resource": {
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "protocol": "http://iiif.io/api/image",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "width": 821,
+                        "@id": "https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c",
+                        "height": 1417
+                    },
+                    "width": 821,
+                    "@id": "https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/full/593,1024/0/default.jpg",
+                    "height": 1417
+                },
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "@id": "https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/imageanno/0",
+                "on": "https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/canvas/c0"
+            }],
+            "thumbnail": {
+                "@type": "dctypes:Image",
+                "service": {
+                    "sizes": [
+                        {
+                            "width": 593,
+                            "height": 1024
+                        },
+                        {
+                            "width": 232,
+                            "height": 400
+                        },
+                        {
+                            "width": 116,
+                            "height": 200
+                        },
+                        {
+                            "width": 58,
+                            "height": 100
+                        }
+                    ],
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": ["jpg"],
+                            "qualities": ["color"],
+                            "supports": ["sizeByWhListed"]
+                        }
+                    ],
+                    "width": 593,
+                    "@id": "https://dlc.services/thumbs/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 1024
+                },
+                "@id": "https://dlc.services/thumbs/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/full/full/0/default.jpg"
+            },
+            "@type": "sc:Canvas",
+            "width": 821,
+            "@id": "https://dlc.services/iiif-img/7/18/bdccc7ed-2217-4188-bdac-f83d2d004f7c/canvas/c0",
+            "label": "Image",
+            "height": 1417
+        }],
+        "@type": "sc:Sequence",
+        "@id": "https://dlc.services/7/18/3976c0c2-6718-4047-ae38-6316f1551be2/sequences/normal",
+        "label": "Current page order"
+    }],
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
