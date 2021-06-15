@@ -23065,47 +23065,6 @@
             "id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/0d1e3fb8-61f8-40c7-b157-074bc66319b6.json",
             "label": {"nl": ["Barometer door R. Fuess"]},
             "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
-                            "width": 156,
-                            "height": 1024
-                        },
-                        {
-                            "width": 61,
-                            "height": 400
-                        },
-                        {
-                            "width": 31,
-                            "height": 200
-                        },
-                        {
-                            "width": 15,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 156,
-                    "id": "https://dlc.services/thumbs/7/18/b3492017-a156-48a8-b77d-9f25802c32ad",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/b3492017-a156-48a8-b77d-9f25802c32ad/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/8feb94e7-b4c0-4286-89d8-1b7032e3c46e.json",
-            "label": {"nl": ["test"]},
-            "type": "Manifest"
         }
     ]
 }
